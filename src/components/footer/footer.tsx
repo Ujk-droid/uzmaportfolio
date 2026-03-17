@@ -32,7 +32,7 @@ export function Footer() {
                   uzma
                 </span>
                 <span className="text-zinc-400 group-hover:text-zinc-300 transition-colors">
-                  .dev
+                  {" "}khan
                 </span>
                 {/* Hover glow */}
                 <span className="absolute -inset-3 bg-gradient-to-r from-indigo-500/20 to-purple-500/20 blur-xl opacity-0 group-hover:opacity-100 transition-opacity duration-300 -z-10" />
